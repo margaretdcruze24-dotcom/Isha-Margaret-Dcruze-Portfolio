@@ -13,10 +13,7 @@ Areas of Focus
 - Brand positioning and communication
 - Audience engagement and community growth
 - Digital marketing and performance analysis
-Portfolio
-The portfolio website is available in this repository:
-- Isha Margaret DCruze Portfolio.html
-Open the HTML file in a browser to view the portfolio locally.
+  
 Selected Experience
 My experience includes working on brand communication, social media
 content, digital marketing initiatives, and business operations. The
